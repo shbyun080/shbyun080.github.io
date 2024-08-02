@@ -3,7 +3,7 @@ description: Personal Website of Sanghyun Byun
 baseurl: ""
 url: https://shbyun080.github.io/
 
-theme: cvless
+remote_theme: cvless
 
 # site settings
 taglong: 3D Computer Vision
