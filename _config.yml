@@ -4,6 +4,7 @@ baseurl: ""
 url: https://shbyun080.github.io/
 
 remote_theme: cvless
+# theme: cvless
 
 # site settings
 taglong: 3D Computer Vision
