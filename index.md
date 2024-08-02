@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-I am an AI Researcher at [Emerging Technology - LG Electronics Silicon Valley Lab](https://www.lgtechventures.com){:target="_blank"}, concurrently completing my M.S. Computer Science (AI) at [University of Southern California (USC)](https://viterbischool.usc.edu){:target="_blank"}. I obtained my B.S. in Computer Science and Engineering at [University of California - Irvine (UCI)](https://cs.ics.uci.edu){:target="_blank"}, conducting research under [Aditi Majumder](https://ics.uci.edu/~majumder/){:target="_blank"}. I was also an SDE Intern at [OptumRX - UnitedHealthCare](https://www2.optumrx.com){:target="_blank"}.
+I am an AI Researcher at [Emerging Technology - LG Electronics Silicon Valley Lab](https://www.lg.com/us){:target="_blank"}, concurrently completing my M.S. Computer Science (AI) at [University of Southern California (USC)](https://viterbischool.usc.edu){:target="_blank"}. I obtained my B.S. in Computer Science and Engineering at [University of California - Irvine (UCI)](https://cs.ics.uci.edu){:target="_blank"}, conducting research under [Aditi Majumder](https://ics.uci.edu/~majumder/){:target="_blank"}. I was also an SDE Intern at [OptumRX - UnitedHealthCare](https://www2.optumrx.com){:target="_blank"}.
 
 My research interests are in 3D Reconstruction and Segmentation. Currently, I'm investigating the following topics:
 - Multimodal Digital Twins from Sparse Images In-the-Wild
