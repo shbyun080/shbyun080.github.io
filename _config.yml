@@ -1,0 +1,73 @@
+title: Sanghyun Byun
+description: Personal Website of Sanghyun Byun
+baseurl: ""
+url: https://shbyun080.github.io/
+
+theme: cvless
+
+# site settings
+taglong: 3D Computer Vision
+tagshort: 3D CV
+
+# author settings
+author:
+  name: Sanghyun Byun
+  email: shbyun080@gmail.com
+  workemail: sang.byun@lge.com
+  schoolemail: byuns@usc.edu
+photo: assets/files/prof.jpeg
+cv: assets/files/cv.pdf
+address: Los Angeles, CA | San Jose, CA
+phone: +1 650 944 9749
+
+# Social Info
+social:
+  linkedin: sanghyun-byun
+  github: shbyun080
+
+# Vitae Info
+experiences:
+  - category: work
+    place: AI @ LG USA
+    time: May 2025 - Present
+    title: AI Partner
+    subtitle: Working on digital twin, digital human, and VLM.
+  - category: work
+    place: USC
+    time: Fed 2024 - Apr 2024
+    title: Graduate Researcher
+    subtitle: 2D to 3D semantic projection.
+  - category: school
+    place: USC
+    time: Aug 2023 - Present
+    title: M.S. Computer Science
+    subtitle: 
+  - category: work
+    place: UC Irvine
+    time: Nov 2021 - Jul 2023
+    title: Undergraduate Researcher
+    subtitle: Cleft landmark detection with rectification.
+  - category: work
+    place: Foodpool Inc
+    time: Nov 2021 - Jul 2022
+    title: Co-founder / Technical CFO
+    subtitle: Web app for college food delivery.
+  - category: work
+    place: OptumRx
+    time: Jul 2021 - Aug 2022
+    title: SDE Intern
+    subtitle: Internal tools - Benchmark and UAP.
+  - category: school
+    place: UC Irvine
+    time: Sep 2019 - Jun 2023
+    title: B.S. Computer Science & Engineering
+    subtitle: 
+
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - README.md
+  - .gitignore
+
