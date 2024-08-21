@@ -12,10 +12,7 @@ My research interests are in 3D Reconstruction and Segmentation. Currently, I'm 
 - Tiny Interactable 3D Segmentation in Noisy, Low-Resolution Scenes
 
 # Research Keywords
-3D Semantic Reconstruction, Super-Resolution, Monocular Depth Estimation, Visual Language Model
-
-# News
-TBD - Watch for updates!
+$D Reconstruction, 3D Semantic Reconstruction, Feature Descriptor, Monocular Depth Estimation, Visual Language Model, Medical AI
 
 # Education
 University of Southern California (USC)
