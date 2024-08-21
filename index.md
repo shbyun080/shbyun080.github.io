@@ -23,7 +23,7 @@ University of Southern California (USC)
 <br/>
 <span style="color:var(--color-text-highlight)">M.S. in Computer Science (AI)</span>
 
-Univerisyt of California - Irvine (UCI)
+University of California - Irvine (UCI)
 <span style="float:right;">Aug 2019 - June 2023</span>
 <br/>
 <span style="color:var(--color-text-highlight)">B.S. in Computer Science and Engineering</span>
