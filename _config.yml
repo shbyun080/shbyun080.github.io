@@ -7,8 +7,8 @@ remote_theme: cvless
 # theme: cvless
 
 # site settings
-taglong: 3D Computer Vision
-tagshort: 3D CV
+taglong: Visual Representations
+tagshort: Vision
 
 # author settings
 author:
