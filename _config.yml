@@ -14,12 +14,9 @@ tagshort: 3D CV
 author:
   name: Sanghyun Byun
   email: shbyun080@gmail.com
-  workemail: sang.byun@lge.com
-  schoolemail: byuns@usc.edu
 photo: assets/files/prof.jpeg
 cv: assets/files/cv.pdf
 address: Los Angeles, CA | San Jose, CA
-phone: +1 650 944 9749
 
 # Social Info
 social:
@@ -40,7 +37,7 @@ experiences:
     subtitle: 2D to 3D semantic projection
   - category: school
     place: USC
-    time: Aug 2023 - Present
+    time: Aug 2023 - May 2025
     title: M.S. Computer Science - AI
     subtitle: 
   - category: work
