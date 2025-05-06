@@ -20,5 +20,3 @@ Push to page-tracked branch. GitHub will do the rest.
 Built with <a href="https://jekyllrb.com" target="_blank">Jekyll</a>
 
 Extension on <a href="https://github.com/piazzai/cvless" target="_blank">cvless</a>
-
-**WARNING - NOT A WEB DEV, I ONLY DO VISION :P**
