@@ -5,26 +5,14 @@ title: Home
 
 # About Me
 
-I am an AI Researcher at [LG Electronics Silicon Valley Emerging Technology, CTO Office](https://www.lg.com/us){:target="_blank"}. I completed my M.S. in Computer Science - AI at [University of Southern California (USC)](https://viterbischool.usc.edu){:target="_blank"} and my B.S. in Computer Science and Engineering at [University of California - Irvine (UCI)](https://cs.ics.uci.edu){:target="_blank"}, conducting research under [Aditi Majumder](https://ics.uci.edu/~majumder/){:target="_blank"}. I was also an SDE Intern at [OptumRX - UnitedHealthCare](https://www2.optumrx.com){:target="_blank"}.
+I am an AI Researcher at [LG Electronics Silicon Valley Emerging Technology, CTO Office](https://www.lg.com/us){:target="_blank"}. 
+
+I obtained my M.S. in Computer Science - AI at [University of Southern California (USC)](https://viterbischool.usc.edu){:target="_blank"} and my B.S. in Computer Science and Engineering at [University of California - Irvine (UCI)](https://cs.ics.uci.edu){:target="_blank"}. At UCI, I worked closely with [Prof. Aditi Majumder](https://ics.uci.edu/~majumder/){:target="_blank"} on medical AI.
 
 My research interests include Visual Learning Representation, Efficient AI, and Adaptive Networks. Currently, I'm investigating the following topics:
 - Study of Latent Visual Features
 - Test-Time Optimized Architecture for Vision Tasks
-- LLM Acceleration and Context 
-
-# Research Keywords
-Visual Representation, Efficient AI, Test-Time Optimization, AI Application
-
-# Education
-University of Southern California (USC)
-<span style="float:right;">Aug 2023 - May 2025</span>
-<br/>
-<span style="color:var(--color-text-highlight)">M.S. Computer Science - AI</span>
-
-University of California - Irvine (UCI)
-<span style="float:right;">Aug 2019 - June 2023</span>
-<br/>
-<span style="color:var(--color-text-highlight)">B.S. Computer Science and Engineering</span>
+- LLM Acceleration and Context Extension
 
 # Publications
 
@@ -69,6 +57,17 @@ AI based Reconstruction of Indoor Scenes from Single Image (Patent Pending)
 <br/>
 <i>AIVR 2023</i>
 <span style="float:right;">March 2024</span>
+
+# Education
+University of Southern California (USC)
+<span style="float:right;">Aug 2023 - May 2025</span>
+<br/>
+<span style="color:var(--color-text-highlight)">M.S. Computer Science - AI</span>
+
+University of California - Irvine (UCI)
+<span style="float:right;">Aug 2019 - June 2023</span>
+<br/>
+<span style="color:var(--color-text-highlight)">B.S. Computer Science and Engineering</span>
 
 # Vitae
 {% include vitae.html %}
