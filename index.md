@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-I am an AI Researcher at [LG Electronics Silicon Valley Emerging Technology, CTO Office](https://www.lg.com/us){:target="_blank"}. I completed my M.S. in Computer Science - AI at [University of Southern California (USC)](https://viterbischool.usc.edu){:target="_blank"}. I obtained my B.S. in Computer Science and Engineering at [University of California - Irvine (UCI)](https://cs.ics.uci.edu){:target="_blank"}, conducting research under [Aditi Majumder](https://ics.uci.edu/~majumder/){:target="_blank"}. I was also an SDE Intern at [OptumRX - UnitedHealthCare](https://www2.optumrx.com){:target="_blank"}.
+I am an AI Researcher at [LG Electronics Silicon Valley Emerging Technology, CTO Office](https://www.lg.com/us){:target="_blank"}. I completed my M.S. in Computer Science - AI at [University of Southern California (USC)](https://viterbischool.usc.edu){:target="_blank"} and my B.S. in Computer Science and Engineering at [University of California - Irvine (UCI)](https://cs.ics.uci.edu){:target="_blank"}, conducting research under [Aditi Majumder](https://ics.uci.edu/~majumder/){:target="_blank"}. I was also an SDE Intern at [OptumRX - UnitedHealthCare](https://www2.optumrx.com){:target="_blank"}.
 
 My research interests include Visual Learning Representation, Efficient AI, and Adaptive Networks. Currently, I'm investigating the following topics:
 - Study of Latent Visual Features
