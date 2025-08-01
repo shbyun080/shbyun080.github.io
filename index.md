@@ -14,6 +14,8 @@ My research interests include Visual Representation, AI Efficiency, and Self-Sup
 - LLM Acceleration and Long-Context Handling
 - Self-Supervised Learning of Vision-Language Tasks
 
+Also building vertical AI agents at [Inframe](https://inframeai.com)!
+
 # Publications
 [Single-pass Adaptive Image Tokenization for Minimum Program Search](https://arxiv.org/pdf/2507.07995){:target="_blank"}
 <br/>
