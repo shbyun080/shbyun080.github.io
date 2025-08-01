@@ -7,8 +7,8 @@ remote_theme: cvless
 # theme: cvless
 
 # site settings
-taglong: Visual Representations @ LG | Building @ Inframe
-tagshort: Vision @ LG | Build @ Inframe
+taglong: Visual Representations @ LG - Building @ Inframe
+tagshort: Vision @ LG - Build @ Inframe
 
 # author settings
 author:
@@ -27,7 +27,8 @@ social:
 # Vitae Info
 experiences:
   - category: work
-    place: Building @ [Inframe AI](https://inframeai.com)
+    place: Building @ Inframe AI
+    url: https://inframeai.com
     time: July 2025 - Present
     title: Founder
     subtitle: Vertical AI Agents
