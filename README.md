@@ -1,6 +1,6 @@
 # Personal Website
 
-<a href="sang-byun.github.io" target="_blank">the website</a>
+<a href="shbyun080.github.io" target="_blank">the website</a>
 
 ## Deploy
 
