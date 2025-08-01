@@ -7,8 +7,8 @@ remote_theme: cvless
 # theme: cvless
 
 # site settings
-taglong: Visual Representations @ LG - Building @ Inframe
-tagshort: Vision @ LG - Build @ Inframe
+taglong: Visual Representations @ LG
+tagshort: Vision @ LG
 
 # author settings
 author:
@@ -26,12 +26,6 @@ social:
 
 # Vitae Info
 experiences:
-  - category: work
-    place: Building @ Inframe AI
-    url: https://inframeai.com
-    time: July 2025 - Present
-    title: Founder
-    subtitle: AI Storefronts
   - category: work
     place: AI @ LG USA
     time: May 2025 - Present
