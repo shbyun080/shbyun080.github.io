@@ -27,25 +27,20 @@ social:
 # Vitae Info
 experiences:
   - category: work
+    place: Building @ [Inframe AI](https://inframeai.com)
+    time: July 2025 - Present
+    title: Founder
+    subtitle: Vertical AI Agents
+  - category: work
     place: AI @ LG USA
     time: May 2025 - Present
     title: AI Researcher
     subtitle: Digital Twin, Efficient Models, AI Agent
-  - category: work
-    place: USC
-    time: Fed 2024 - Apr 2024
-    title: Graduate Researcher
-    subtitle: 2D to 3D semantic projection
   - category: school
     place: USC
     time: Aug 2023 - May 2025
     title: M.S. Computer Science - AI
     subtitle: 
-  - category: work
-    place: UC Irvine
-    time: Nov 2021 - Jul 2023
-    title: Undergraduate Researcher
-    subtitle: Cleft landmark detection with rectification
   - category: work
     place: Foodpool Inc
     time: Nov 2021 - Jul 2022
