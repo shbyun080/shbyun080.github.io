@@ -14,7 +14,7 @@ My research interests include Perception, Visual Representation, and AI Efficien
 - Unified Representations for Perception with Reasoning
 - Robot Task Planning with Temporal Grounding in Hybrid Environments
 
-# Conference Proceedings and Preprints
+# Conference, Journals, Preprints
 
 [Single-pass Adaptive Image Tokenization for Minimum Program Search](https://arxiv.org/pdf/2507.07995){:target="_blank"}
 <br/>
