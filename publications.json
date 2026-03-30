@@ -1,0 +1,146 @@
+{
+  "publications": [
+    {
+      "title": "Single-pass Adaptive Image Tokenization for Minimum Program Search",
+      "authors": [
+        "Shivam Duggal",
+        "Sanghyun Byun",
+        "William T. Freeman",
+        "Antonio Torralba",
+        "Phillip Isola"
+      ],
+      "venue": "NeurIPS 2025",
+      "thumbnail": "images/thumbs/karl.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2507.07995"
+      }
+    },
+    {
+      "title": "Unifying Vision-Language Latents for Zero-label Image Caption Enhancement",
+      "authors": [
+        "Sanghyun Byun*",
+        "Jung Ick Guack*",
+        "Mohanad Odema",
+        "Baisub Lee",
+        "Jacob Song",
+        "Woo Seong Chung"
+      ],
+      "venue": "PMLR 2025, NeurIPS 2025 UniReps Workshop",
+      "thumbnail": "images/thumbs/vizer.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2510.12931"
+      }
+    },
+    {
+      "title": "3-Model Speculative Decoding",
+      "authors": [
+        "Sanghyun Byun",
+        "Mohanad Odema",
+        "Jung Ick Guack",
+        "Baisub Lee",
+        "Jacob Song",
+        "Woo Seong Chung"
+      ],
+      "venue": "NeurIPS 2025 SPIGM Workshop",
+      "thumbnail": "images/thumbs/3sd.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2510.12966"
+      }
+    },
+    {
+      "title": "APCE: Adaptive Progressive Context Expansion for Long Context Processing",
+      "authors": [
+        "Baisub Lee",
+        "Sanghyun Byun",
+        "Mohanad Odema",
+        "Jung Ick Guack",
+        "Jacob Song",
+        "Woo Seong Chung"
+      ],
+      "venue": "NeurIPS 2025 MLforSys Workshop",
+      "thumbnail": "images/thumbs/apce.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2510.12051"
+      }
+    },
+    {
+      "title": "CARVQ: Corrective Adaptor with Group Residual Vector Quantization for LLM Embedding Compression",
+      "authors": [
+        "Dayin Gou*",
+        "Sanghyun Byun*",
+        "Nilesh Malpeddi",
+        "Gabrielle De Micheli",
+        "Prathamesh Vaste",
+        "Jacob Song",
+        "Woo Seong Chung"
+      ],
+      "venue": "EMNLP Findings 2025",
+      "thumbnail": "images/thumbs/carvq.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2510.12721"
+      }
+    },
+    {
+      "title": "OneNet: A Channel-Wise 1D Convolutional U-Net",
+      "authors": [
+        "Sanghyun Byun",
+        "Kayvan Shah",
+        "Ayushi Gang",
+        "Christopher Apton",
+        "Jacob Song",
+        "Woo Seong Chung"
+      ],
+      "venue": "IEEE IPTA 2025",
+      "thumbnail": "images/thumbs/onenet.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2411.09838"
+      }
+    },
+    {
+      "title": "MultiDepth: Multi-Sample Priors for Refining Monocular Metric Depth Estimations in Indoor Scenes",
+      "authors": [
+        "Sanghyun Byun",
+        "Jacob Song",
+        "Woo Seong Chung"
+      ],
+      "venue": "arXiv 2024",
+      "thumbnail": "images/thumbs/multidepth.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2411.01048"
+      }
+    },
+    {
+      "title": "Automated Landmark Detection for AR Based Craniofacial Surgical Assistance System",
+      "authors": [
+        "Sanghyun Byun",
+        "Muhammad Twaha Ibrahim",
+        "M. Gopi",
+        "Aditi Majumder",
+        "Lohrasb R. Sayadi",
+        "Usama S. Hamdan",
+        "Raj M. Vyas"
+      ],
+      "venue": "AIVR 2023",
+      "thumbnail": "images/thumbs/cleft.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://link.springer.com/chapter/10.1007/978-981-99-9018-4_5"
+      }
+    }
+  ]
+}
