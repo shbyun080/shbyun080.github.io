@@ -270,6 +270,42 @@ section {
   box-shadow: 0 2px 5px rgba(74, 116, 185, 0.2);
 }
 
+/* Education section */
+.education-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 0;
+  transition: transform var(--transition-time) ease;
+}
+
+.education-item:hover {
+  transform: translateX(var(--animation-offset));
+}
+
+.education-logo {
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.education-school {
+  font-weight: 500;
+  font-size: 1.05rem;
+}
+
+.education-degree {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.education-years {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
 /* Awards section */
 .award-item {
   display: flex;
@@ -460,7 +496,7 @@ strong {
   }
 
   /* Disable right-moving hover animations on mobile */
-  .publication-item:hover, .award-item:hover,
+  .publication-item:hover, .award-item:hover, .education-item:hover,
   .service-category:hover, .misc-item:hover, .news-list li:hover,
   nav a:hover, .social-links-header a:hover, .pub-links a:hover {
     transform: none !important;
