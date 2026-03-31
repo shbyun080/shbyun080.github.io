@@ -1,6 +1,26 @@
 {
   "publications": [
     {
+      "title": "AI Automation for Material Consistency in Industrial 3D Assets",
+      "authors": [
+        "Sanghyun Byun",
+        "Eric Sterner",
+        "Joshua Milburn",
+        "Keunhae Ushiroda",
+        "Eric Boise",
+        "David Olsen",
+        "Jacob Song",
+        "Woo Seong Chung"
+      ],
+      "venue": "Expert Systems with Applications (2026)",
+      "thumbnail": "images/thumbs/material.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://www.sciencedirect.com/science/article/pii/S0957417426010961"
+      }
+    },
+    {
       "title": "Single-pass Adaptive Image Tokenization for Minimum Program Search",
       "authors": [
         "Shivam Duggal",
