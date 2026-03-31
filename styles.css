@@ -456,6 +456,7 @@ strong {
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 10;
+    flex-shrink: 1;
   }
 
   /* Disable right-moving hover animations on mobile */
