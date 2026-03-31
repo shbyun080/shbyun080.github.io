@@ -2,6 +2,10 @@
 
 https://shbyun080.github.io
 
+# Testing
+
+`python -m http.server`
+
 ## License
 
 MIT License
